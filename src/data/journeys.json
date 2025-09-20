@@ -1,0 +1,151 @@
+[
+  {
+    "id": "body",
+    "slug": "the-body-that-i-desire",
+    "title": "The Body That I Desire",
+    "startDate": "2025-09-21T00:00:00Z",
+    "endDate": "2026-01-01T00:00:00Z",
+    "shortDescription": "Daily rituals, purposeful training, and mindful recovery become the architecture for a body that feels capable, powerful, and awake.",
+    "longDescription": "This journey is about becoming the future version of you that feels strong, agile, and confident. It is a slow layering of habits—meals cooked with intent, training sessions logged with focus, and sleep protected like treasure. The goal is not only aesthetic but deeply functional: a body that supports every other ambition.",
+    "mission": "Sculpt resilience through movement, nutrition, and rest so the body becomes a reliable co-pilot for every other ambition.",
+    "coverArt": "/art/body.jpg",
+    "anchors": [
+      "Design adaptive training cycles that evolve with your energy, seasons, and goals.",
+      "Build a sustainable nutrition rhythm rooted in whole foods and mindful choices.",
+      "Protect recovery—sleep, mobility work, and purposeful stillness—to stay sharp."
+    ],
+    "entries": [
+      {
+        "id": "body-2025-09-21-baseline",
+        "entryDate": "2025-09-21T00:00:00Z",
+        "title": "Baseline check-in",
+        "text": "Documented strength benchmarks, body composition, and mobility screens to anchor the starting point.",
+        "columns": 1,
+        "images": ["/entries/body/baseline.svg","/entries/body/training.svg"]
+      },
+      {
+        "id": "body-2025-10-05-training-split",
+        "entryDate": "2025-10-05T00:00:00Z",
+        "title": "Drafted the Q4 programming split",
+        "text": "Outlined a push/pull/legs + conditioning rotation with progressive overload dialled for the first exhibition window.",
+        "columns": 2,
+        "highlight": true,
+        "images": ["/entries/body/training.svg"]
+      }
+    ],
+    "background": "radial-gradient(circle at 20% 20%, rgba(255, 200, 169, 0.55), transparent 58%), radial-gradient(circle at 80% 0%, rgba(59, 130, 246, 0.55), transparent 60%), linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(30, 41, 59, 0.85))",
+    "accent": "rgba(79, 70, 229, 0.65)"
+  },
+  {
+    "id": "videos",
+    "slug": "the-videos-i-want-to-create",
+    "title": "The Videos I Want to Create",
+    "startDate": "2025-09-21T00:00:00Z",
+    "endDate": "2026-01-01T00:00:00Z",
+    "shortDescription": "Every concept becomes a storyboard, every storyboard becomes a shot list, and each shot evolves into a finished piece that feels unmistakably yours.",
+    "longDescription": "Here, experimentation is welcomed. The mission is to build a library of visual work that documents your perspective—videos that are artful, clever, and human. Develop pipelines, refine your editing language, and push your storytelling to feel bold while still grounded in truth.",
+    "mission": "Transform raw ideas into motion, narrative, and emotion while sharpening a repeatable creative pipeline.",
+    "coverArt": "/art/videos.jpg",
+    "anchors": [
+      "Prototype rapidly—capture micro films and iterate until your visual voice emerges.",
+      "Build a repeatable production stack, from scripting frameworks to export presets.",
+      "Study light, pacing, and sound design to add cinematic gravity to every frame."
+    ],
+    "entries": [
+      {
+        "id": "videos-2025-09-24-concept-board",
+        "entryDate": "2025-09-24T00:00:00Z",
+        "title": "Built a concept board",
+        "text": "Moodboarded palette, pacing references, and story beats for the first short in the exhibition.",
+        "columns": 1,
+        "images": ["/entries/videos/concept-board.svg"]
+      }
+    ],
+    "background": "radial-gradient(circle at 10% 10%, rgba(248, 113, 113, 0.55), transparent 60%), radial-gradient(circle at 90% 20%, rgba(16, 185, 129, 0.45), transparent 55%), linear-gradient(135deg, rgba(17, 24, 39, 0.95), rgba(15, 23, 42, 0.85))",
+    "accent": "rgba(244, 114, 182, 0.65)"
+  },
+  {
+    "id": "poe",
+    "slug": "the-achievements-i-want-to-achieve-in-poe",
+    "title": "The Achievements I Want in POE / POE2",
+    "startDate": "2025-09-21T00:00:00Z",
+    "endDate": "2026-01-01T00:00:00Z",
+    "shortDescription": "Strategic planning, disciplined farming routes, and mechanical mastery align to push you higher on every league ladder.",
+    "longDescription": "Path of Exile is equal parts art and obsession. Map out your seasons, design builds with ruthless attention to synergy, and analyse each failure with the calm eye of a scientist. Let every defeat seed the insight that leads to the next breakthrough.",
+    "mission": "Chase perfect builds and impossible ladders with relentless curiosity and post-mortem discipline.",
+    "coverArt": "/art/poe.jpg",
+    "anchors": [
+      "Craft high-impact builds with detailed gearing, passive tree, and gem plans.",
+      "Schedule progression sprints—mapping, bossing, economy—in purposeful phases.",
+      "Analyse league stats, VODs, and death logs to shorten the path to mastery."
+    ],
+    "entries": [
+      {
+        "id": "poe-2025-09-27-progression-map",
+        "entryDate": "2025-09-27T00:00:00Z",
+        "title": "Mapped the first league sprint",
+        "text": "Drafted a 6-week league plan covering economy setup, atlas progression, and boss practice windows.",
+        "columns": 1,
+        "images": ["/entries/poe/sprint-map.svg"]
+      }
+    ],
+    "background": "radial-gradient(circle at 15% 20%, rgba(129, 140, 248, 0.55), transparent 60%), radial-gradient(circle at 85% 85%, rgba(251, 191, 36, 0.45), transparent 60%), linear-gradient(135deg, rgba(12, 10, 25, 0.95), rgba(30, 20, 45, 0.85))",
+    "accent": "rgba(129, 140, 248, 0.65)"
+  },
+  {
+    "id": "projects",
+    "slug": "the-side-projects-i-wish-to-attempt",
+    "title": "The Side Projects I Wish to Attempt",
+    "startDate": "2025-09-21T00:00:00Z",
+    "endDate": "2026-01-01T00:00:00Z",
+    "shortDescription": "Idea dumps turn into experiments, experiments become teachable notes, and the archive grows with each finished or failed attempt.",
+    "longDescription": "Not every experiment needs to scale, but each one should teach something. This path makes space to ship small apps, tiny tools, and creative stunts—cataloguing the lessons so future you knows which sparks became fire.",
+    "mission": "Treat curiosities as prototypes and document every iteration so the archive becomes a reference library.",
+    "coverArt": "/art/projects.jpg",
+    "anchors": [
+      "Keep a backlog of project prompts ranked by excitement and impact.",
+      "Log what you tried, what broke, and what surprised you for each release.",
+      "Share progress visuals or demos to invite feedback before it feels finished."
+    ],
+    "entries": [
+      {
+        "id": "projects-2025-10-02-backlog-refresh",
+        "entryDate": "2025-10-02T00:00:00Z",
+        "title": "Refreshed the side-project backlog",
+        "text": "Tagged ideas by effort and reward, then blocked time for the first build sprint in October.",
+        "columns": 1,
+        "images": ["/entries/projects/backlog.svg"]
+      }
+    ],
+    "background": "radial-gradient(circle at 20% 15%, rgba(250, 204, 21, 0.45), transparent 60%), radial-gradient(circle at 80% 85%, rgba(56, 189, 248, 0.45), transparent 60%), linear-gradient(135deg, rgba(10, 16, 32, 0.95), rgba(20, 30, 50, 0.85))",
+    "accent": "rgba(250, 204, 21, 0.6)"
+  },
+  {
+    "id": "control",
+    "slug": "the-self-control-i-wish-to-develop-within",
+    "title": "The Self Control I Wish to Develop Within",
+    "startDate": "2025-09-21T00:00:00Z",
+    "endDate": "2026-01-01T00:00:00Z",
+    "shortDescription": "Control is a craft. Strengthen your ability to choose the long road, embrace discomfort, and celebrate the tiny wins that compound into transformation.",
+    "longDescription": "This storyline is about owning your impulses. Design systems that make the right choice obvious, surround yourself with triggers that reinforce patience, and chart your progress so you can see your own evolution. Persistence becomes both compass and shield.",
+    "mission": "Build rituals that keep energy directed and focus unshakeable, even when discipline feels thin.",
+    "coverArt": "/art/control.jpg",
+    "anchors": [
+      "Map trigger points—people, places, habits—and design counter rituals.",
+      "Track micro-wins daily to visualise how consistency compounds.",
+      "Refine morning and evening routines that create psychological space to think."
+    ],
+    "entries": [
+      {
+        "id": "control-2025-09-23-trigger-map",
+        "entryDate": "2025-09-23T00:00:00Z",
+        "title": "Mapped key temptation triggers",
+        "text": "Listed the top five contexts that derail focus and paired each with an immediate counter ritual.",
+        "columns": 1,
+        "images": ["/entries/control/triggers.svg"]
+      }
+    ],
+    "background": "radial-gradient(circle at 25% 75%, rgba(186, 230, 253, 0.55), transparent 60%), radial-gradient(circle at 75% 25%, rgba(192, 132, 252, 0.45), transparent 55%), linear-gradient(135deg, rgba(15, 23, 42, 0.95), rgba(30, 20, 58, 0.85))",
+    "accent": "rgba(192, 132, 252, 0.6)"
+  }
+]
