@@ -7,6 +7,8 @@ import JourneyPage from './pages/JourneyPage'
 import NotFoundPage from './pages/NotFoundPage'
 import './index.css'
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') || '/'
+
 const router = createBrowserRouter(
   [
     {
@@ -19,7 +21,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/fog' },
+  { basename: base === '/' ? undefined : base },
 )
 
 createRoot(document.getElementById('root')!).render(
